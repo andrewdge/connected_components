@@ -1,5 +1,5 @@
 # connected_components
-Finds all connected components of a graph, using a union-find data structure build with a dictionary. (Python 3.9)
+Finds all connected components of a graph, using a union-find data structure built with a dictionary. (Python 3.9)
 
 ## Usage:
 ```python main.py {file_name_here}.txt```
