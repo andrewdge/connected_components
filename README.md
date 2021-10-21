@@ -6,8 +6,8 @@ num_edges
 
 num_vertices
 
-vertexA vertexB // edge 1
+vertexA vertexB  <-- edge 1
 
-vertexC vertexD // edge 2
+vertexC vertexD  <-- edge 2
 
-...
+cont...
